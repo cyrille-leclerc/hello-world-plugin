@@ -1,0 +1,9 @@
+# MAVEN
+/target
+/work
+
+# INTELLIJ
+*.iml
+/.idea
+
+Icon?
