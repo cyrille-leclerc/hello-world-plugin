@@ -34,7 +34,7 @@ import java.io.IOException;
  */
 public class HelloWorldBuilder extends Builder {
 
-    private static String version ="(v1.0)";
+    private static String version ="(v1.1)";
 
     private final String name;
 
